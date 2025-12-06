@@ -1,0 +1,4 @@
+/Users/liuzhaoyang/C++Projects/AsioStudy/endpoint/build/CMakeFiles/common.dir
+/Users/liuzhaoyang/C++Projects/AsioStudy/endpoint/build/CMakeFiles/main.dir
+/Users/liuzhaoyang/C++Projects/AsioStudy/endpoint/build/CMakeFiles/edit_cache.dir
+/Users/liuzhaoyang/C++Projects/AsioStudy/endpoint/build/CMakeFiles/rebuild_cache.dir
